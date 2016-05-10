@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "async": "~1.4.0",
-    "collections": "~1.2.3",
+    "collections": "~2.0.0",
     "config": "~1.14.0",
     "grunt-s3": "git+https://github.com/thanpolas/grunt-s3.git",
     "grunt-ss-helpers": "0.0.9",
@@ -48,7 +48,7 @@
     "yaml": "~0.2.3"
   },
   "devDependencies": {
-    "grunt": ">=0.4.5",
+    "grunt": "0.4.5",
     "grunt-mocha-test": "~0.12.7",
     "chai": "~3.2.0",
     "sinon": "~1.15.4",
